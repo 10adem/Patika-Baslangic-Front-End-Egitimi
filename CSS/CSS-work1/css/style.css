@@ -1,0 +1,42 @@
+#first-header {
+  text-align: center;
+}
+
+.links a {
+  padding: 5px;
+  color: cornflowerblue;
+}
+
+.links {
+  color: cornflowerblue;
+}
+
+.title-large {
+  color: crimson;
+}
+
+#first-section {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.title-medium {
+  color: purple;
+}
+
+.title-small {
+  color: yellowgreen;
+}
+
+.second-section {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.ordered-list li {
+  margin: 20px;
+}
+
+.title-center {
+  text-align: center;
+}
